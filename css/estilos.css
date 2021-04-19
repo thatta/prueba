@@ -1,0 +1,30 @@
+.bg-blanco{
+    background-color: white;
+}
+.header1{
+    
+    padding: 5px 0 5px 0;
+    background: #1241db;
+    font-weight: 700; color:#FFF;
+	
+    
+}
+.header11{
+    padding: 5px 0 5px 0;
+    background: #1241db;
+    font-weight: 700; color:rgb(62, 27, 160);
+    background: #1241db;
+}
+
+.row{
+    --bs-gutter-x: 0;
+}
+
+
+
+.UNO {
+    
+	border:1px solid #14937a;
+	  
+}
+
